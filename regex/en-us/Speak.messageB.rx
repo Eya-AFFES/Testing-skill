@@ -1,0 +1,8 @@
+Move backward for (?P<MydistanceB>.*) 
+Move the car backward for (?P<MydistanceB>.*) 
+Move car backward for (?P<MydistanceB>.*) 
+Go backward for (?P<MydistanceB>.*) 
+Move backwards for (?P<MydistanceB>.*) 
+Move the car backwards for (?P<MydistanceB>.*) 
+Move car backwards for (?P<MydistanceB>.*) 
+Go backwards for (?P<MydistanceB>.*) 

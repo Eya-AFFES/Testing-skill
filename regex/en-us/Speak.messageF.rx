@@ -1,0 +1,8 @@
+Move forward for (?P<MydistanceF>.*)
+Move the car forward for (?P<MydistanceF>.*)
+Move car forward for (?P<MydistanceF>.*)
+Move the car for (?P<MydistanceF>.*)
+Move car for (?P<MydistanceF>.*)
+Move for (?P<MydistanceF>.*)
+Go forward for (?P<MydistanceF>.*)
+Go for(?P<MydistanceF>.*)
